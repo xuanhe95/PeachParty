@@ -24,7 +24,8 @@ Peach Party是 [UCLA Winter CS 32](http://web.cs.ucla.edu/classes/winter23/cs32/
 
 ---
 
-该游戏的游戏对象类继承关系如下：
+游戏对象类继承关系如下：
+
 - 📦 Actor  
   - 🎭 Character  
     - 🦸 Player  
