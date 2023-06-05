@@ -1,4 +1,4 @@
-# 🎉 Peach Party 🎉
+<h1><p align="center">🎲 Peach Party 🎲</p></h1>
 
 Peach Party是 [UCLA Winter CS 32](http://web.cs.ucla.edu/classes/winter23/cs32/syllabus.html) 的课程作业的一部分。[项目要求文档在此](https://github.com/xuanhe95/PeachParty/blob/main/spec.pdf)。     
 我很有幸参与了课程，感谢David Smallberg教授及Carey Nachenberg教授的出色课程设计。  
