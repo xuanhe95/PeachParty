@@ -4,12 +4,9 @@ Peach Party是 [UCLA Winter CS 32](http://web.cs.ucla.edu/classes/winter23/cs32/
 我很有幸参与了课程，感谢David Smallberg教授及Carey Nachenberg教授的出色课程设计。  
 游戏由C++编写，模仿了Mario Party的玩法。是一个大富翁类的游戏。  
 作业的主要目的是通过编写游戏学习面向对象编程的设计理念。  
-<div style="position:relative;width:fit-content;height:fit-content;">
-            <a style="position:absolute;top:20px;right:1rem;opacity:0.8;" href="https://clipchamp.com/watch/9tvmzCfSlbn?utm_source=embed&utm_medium=embed&utm_campaign=watch">
-                <img style="height:22px;" src="https://clipchamp.com/e.svg" alt="Made with Clipchamp" />
-            </a>
-            <iframe allow="autoplay;" allowfullscreen style="border:none" src="https://clipchamp.com/watch/9tvmzCfSlbn/embed" width="640" height="360"></iframe>
-        </div>
+
+https://github.com/xuanhe95/PeachParty/assets/82539791/b6c677a1-cc53-4d36-b7e6-8bb657f04d2a
+
 
 ## 🎮 操控模式：
 
