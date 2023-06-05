@@ -1,6 +1,6 @@
 <h1><p align="center">🎲 Peach Party 🎲</p></h1>
 
-Peach Party是 [UCLA Winter CS 32](http://web.cs.ucla.edu/classes/winter23/cs32/syllabus.html) 的课程作业的一部分。[项目要求文档在此](https://github.com/xuanhe95/PeachParty/blob/main/spec.pdf)。     
+Peach Party是 [UCLA Winter CS 32](http://web.cs.ucla.edu/classes/winter23/cs32/syllabus.html) 的课程作业的一部分。[详细项目文档在此](https://github.com/xuanhe95/PeachParty/blob/main/spec.pdf)。     
 我很有幸参与了课程，感谢David Smallberg教授及Carey Nachenberg教授的出色课程设计。  
 游戏由C++编写，模仿了Mario Party的玩法。是一个大富翁类的游戏。  
 作业的主要目的是通过编写游戏学习面向对象编程的设计理念。  
